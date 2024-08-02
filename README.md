@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshvardhan123" target="blank"><img src="https://img.shields.io/twitter/follow/harshvardhan123?logo=twitter&style=for-the-badge" alt="harshvardhan123" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App Project**
+- 🔭 I’m currently working on **Classification of Brain Tumour in MR images using Deep Spatiospatial Model**
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning, Frontend Development**
 

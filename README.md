@@ -2,19 +2,17 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Harshvardhan Sharma</h1>
-<h3 align="center">A passionate Data Science and Frontend Development Enthusiast from India</h3>
+<h3 align="center">A passionate Data Science and Machine Learning Enthusiast from India</h3>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan2164&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhan2164" /> </p>
 
-<p align="left"> <a href="https://twitter.com/harshvardhan123" target="blank"><img src="https://img.shields.io/twitter/follow/harshvardhan123?logo=twitter&style=for-the-badge" alt="harshvardhan123" /></a> </p>
-
-- 🔭 I’m currently working on **Classification of Brain Tumour in MR images using Deep Spatiospatial Model**
+- 🔭 I’m currently working on **Classification of Brain Tumour in MR Images using Deep Spatiospatial Model**
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning, Frontend Development**
 
@@ -63,6 +61,6 @@
 
 <div align="center">
 
-### Made By ❤️ Harshvardhan Sharma © Copyright. All Rights Reserved @2024.
+### Made By Harshvardhan Sharma © Copyright. All Rights Reserved @2024.
 
 </div>

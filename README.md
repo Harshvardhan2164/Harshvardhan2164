@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan2164&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhan2164" /> </p>
 
-- 🔭 I’m currently working on **Classification of Brain Tumour in MR Images using Deep Spatiospatial Model**
+- 🔭 I’m currently working on **From Nucleotides to Insights: The Power of Generative AI in Genomics**
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning, Frontend Development**
 

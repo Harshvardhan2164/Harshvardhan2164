@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Harshvardhan Sharma</h1>
-<h3 align="center">A passionate Data Science and Machine Learning Enthusiast from India</h3>
+<h3 align="center">A passionate Data Science, Full Stack Web Dev and Machine Learning Enthusiast from India</h3>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **From Nucleotides to Insights: The Power of Generative AI in Genomics**
 
-- 🌱 I’m currently learning **Data Analytics, Machine Learning, Frontend Development**
+- 🌱 I’m currently learning **Data Analytics, Machine Learning, Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://harshvardhan2164.github.io/My-Portfolio-Website/](https://harshvardhan2164.github.io/My-Portfolio-Website/)
 

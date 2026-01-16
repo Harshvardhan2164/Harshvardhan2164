@@ -12,9 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan2164&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhan2164" /> </p>
 
-- 🔭 I’m currently working on **Analysis of Perturbation Methods in Explainable AI**
+- 🔭 I’m currently working at **American Express**
 
-- 🌱 I’m currently learning **Data Analytics, Machine Learning, Full Stack Web Development**
+- 🌱 I’m currently learning **Coorporate Lingo**
 
 - 👨‍💻 All of my projects are available at [https://harshvardhan2164.github.io/My-Portfolio-Website/](https://harshvardhan2164.github.io/My-Portfolio-Website/)
 

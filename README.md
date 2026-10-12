@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan2164&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhan2164" /> </p>
 
@@ -60,7 +60,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harshvardhan2164&theme=radical&utcOffset=8" />
     </td>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Harshvardhan2164&theme=radical" />
+      <img src="https://streak-stats.demolab.com?user=Harshvardhan2164&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -81,6 +81,6 @@
 
 <div align="center">
 
-### Made By Harshvardhan Sharma © Copyright. All Rights Reserved @2025.
+### Made By Harshvardhan Sharma © Copyright. All Rights Reserved @2026.
 
 </div>
